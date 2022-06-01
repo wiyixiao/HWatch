@@ -4,13 +4,9 @@ STM32+LVGL ==> WATCH
 #### 网盘链接：
 
 ```
-源码：
-链接：https://pan.baidu.com/s/1h0YSe5Ja6y8xVL-h4-vCUg 
-提取码：8pxz 
-
-参考资料：
-链接：https://pan.baidu.com/s/13PEog4OyJ0LQ3ozizRP4GA 
-提取码：97mr 
+源码&&参考资料：
+链接：https://pan.baidu.com/s/1MzRVxUoAQARlFeIj8WKD5A 
+提取码：s21r 
 ```
 
 #### 更新日志
